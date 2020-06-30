@@ -85,7 +85,7 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
-      <SDLCheck>true</SDLCheck>
+      <SDLCheck>false</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
     <Link>
@@ -129,8 +129,25 @@
     <ClCompile Include="1008.cpp" />
     <ClCompile Include="1010.cpp" />
     <ClCompile Include="1011.cpp" />
+    <ClCompile Include="1015.cpp" />
     <ClCompile Include="1016.cpp" />
+    <ClCompile Include="1017.cpp" />
     <ClCompile Include="10171.cpp" />
+    <ClCompile Include="1018.cpp" />
+    <ClCompile Include="1019.cpp" />
+    <ClCompile Include="1020.cpp" />
+    <ClCompile Include="1023.cpp" />
+    <ClCompile Include="1024.cpp" />
+    <ClCompile Include="1026.cpp" />
+    <ClCompile Include="1028.cpp" />
+    <ClCompile Include="1029.cpp" />
+    <ClCompile Include="13460.cpp" />
+    <ClCompile Include="14427.cpp" />
+    <ClCompile Include="14740.cpp" />
+    <ClCompile Include="15740.cpp" />
+    <ClCompile Include="16978.cpp" />
+    <ClCompile Include="17238.cpp" />
+    <ClCompile Include="2437.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
