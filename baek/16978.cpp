@@ -1,4 +1,4 @@
-#include<cstdio>
+/*#include<cstdio>
 #include<vector>
 #include<algorithm>
 #define N 320
@@ -115,3 +115,4 @@ int main()
 	delete[] ans;
 	return 0;
 }
+*/

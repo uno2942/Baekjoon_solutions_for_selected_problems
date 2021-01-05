@@ -1,4 +1,4 @@
-#include<iostream>
+/*#include<iostream>
 #include<vector>
 #include<algorithm>
 #define rational pair<long long, long long>
@@ -120,3 +120,4 @@ int main()
 	}
 	return 0;
 }
+*/
